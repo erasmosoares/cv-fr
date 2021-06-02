@@ -1,21 +1,13 @@
 # Erasmo Soares
 
-
-<div id="webaddress">
-<a href="erasmosaraujo@gmail.com">erasmosaraujo@gmail.com</a>
-| <a href="www.linkedin.com/in/erasmosoares">LinkedIn</a>
-</div>
+Analyste-programmeur
 
 [Email](mailto:erasmosaraujo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/erasmosoares/) / [GitHub](https://github.com/erasmosoares/) / [Twitter](https://twitter.com/erasmosoares/)
-
-## Currently
-
-Sr. Analyste-programmeur
 
 ## Sommaire Technique
 
 **Méthodologies de développement et outils de conception:**
- - Agile, Scrum, UML, DevOps, GRASP, SOLID, MVC, TDD, DDD, SAAS, IAAS, DRY,	n-tiers, Architecture orientée services, Serverless Computing, Microservices 
+Agile, Scrum, UML, DevOps, GRASP, SOLID, MVC, TDD, DDD, SAAS, IAAS, DRY,	n-tiers, Architecture orientée services, Serverless Computing, Microservices
 
  **Langages de programmation et environnements de développement:**
  - C#, VB, Java, JavaScript, Typescript, JQuery, XAML, PLSQL, SQL, NUnit, Moq, MSTest, Xamarin Forms, Android, React Native, Docker, YAML, MS Visual Studio .NET (Windows Forms, WPF, ASP.NET, NET Core), Visual Code.
@@ -32,7 +24,6 @@ Sr. Analyste-programmeur
 ## Interests
 
 Solutions Architecture, Clean Architecture, Clean Code, Node, Python, DevOps, Docker, Cloud
-
 
 ## Education
 
@@ -53,98 +44,103 @@ __Collège Santa Maria, Brésil__
 ## Perfectionnement
 
 `2021`
-__Managing Microsoft Azure App Services__, Pluralsight
+__Managing Microsoft Azure App Services__, Pluralsight <br>
+[Référence: REP ID 4127](https://www.dropbox.com/s/hpe7fl11kpage1h/certificate-microsoft-azure-app-services.pdf?dl=0) 
 
 `2020`
-__Building Desktop Apps with Ionic and Electron__, Pluralsight
+__Node.js : The Complete Guide to Build RESTful APIS__, Udemy <br>
+[Référence: UC-eef27311-9890-4db7-8b01-136e338a6d06](https://codewithmosh.com/courses/955852/certificate) 
+
+`2020`
+__The Ultimate Git Course__, Code With Mosh <br>
+[Référence: cert_ddf47pfr](https://codewithmosh.com/courses/887220/certificate?utm_source=student_mailer&utm_medium=email&utm_campaign=issued_certificate_notification) 
+
+`2020`
+__The Ultimate React Native Series: Advanced Concepts__, Code With Mosh <br>
+[Référence: cert_m58v86fk](https://codewithmosh.com/courses/955852/certificate) 
+
+`2020`
+__Building Desktop Apps with Ionic and Electron__, Pluralsight <br>
+[Référence: REP ID 4127](https://www.dropbox.com/s/rapipg5jcq4e7vb/certificate-building%20apps%20with%20ionic%20and%20electron.pdf?dl=0) 
 
 `2019`
-__Clean Architecture: Patterns Practices, and Principles__, Pluralsight
+__Clean Architecture: Patterns Practices, and Principles__, Pluralsight <br>
+[Référence: REP ID 4127](https://www.dropbox.com/s/0gqwatabvgoi42k/certificate-clean%20architecture%20patterns%20practices%20and%20principles.pdf?dl=0) 
 
 `2019`
-__ASP.NET Core Fundamentals__, Pluralsight
+__ASP.NET Core Fundamentals__, Pluralsight <br>
+[Référence: REP ID 4127](https://www.dropbox.com/s/ze9nn58dd4oycra/certificate-asp.net%20core%20fundamentals.pdf?dl=0) 
+
+`2019`
+__Testing Angular 4 Apps with Jasmine__, Udemy <br>
+[Référence: UC-6ZZN9ECE](https://www.udemy.com/certificate/UC-DTATIWLM/) 
 
 `2018`
-__Node.js : The Complete Guide to Build RESTful APIS__, Udemy
+__C# Intermediate: Classes, Interfaces and OOP__, Udemy  <br>
+[Référence: UC-DTATIWLM](https://www.udemy.com/certificate/UC-6ZZN9ECE/) 
 
 `2018`
-__Angular Crash Course__, Udemy
+__Angular Crash Course__, Udemy  <br>
+[Référence: UC-PE54G9UY](https://www.udemy.com/certificate/UC-PE54G9UY/) 
 
 `2018`
-__Object-oriented Programming in JavaScript__, Udemy
+__C# Advanced Topics__, Udemy  <br>
+[Référence: UC-OU8JFJO7](https://www.udemy.com/certificate/UC-OU8JFJO7/) 
 
 `2018`
-__C# Advanced Topics__, Udemy
+__Object-oriented Programming in JavaScript__, Udemy  <br>
+[Référence: UC-LZP96BML](https://www.udemy.com/certificate/UC-LZP96BML/) 
 
 `2018`
-__Build a Real-world App with ASP.NET Core and Angular 2__, Udemy
+__Unit Testing for C# Developers__, Udemy  <br>
+[Référence: UC-IAR9H6DQ](https://www.udemy.com/certificate/UC-IAR9H6DQ/) 
 
 `2018`
-__Unit Testing for C# Developers__, Udemy
+__Entity Framework in Depth__, Udemy  <br>
+[Référence: UC-6IVPV8CY](https://www.udemy.com/certificate/UC-XED36OSN/) 
 
 `2018`
-__Entity Framework in Depth__, Udemy
+__The Complete ASP.NET MVC 5 Course__, Udemy  <br>
+[Référence: UC-XED36OSN](https://www.udemy.com/certificate/UC-6IVPV8CY/) 
 
 `2018`
-__The Complete ASP.NET MVC 5 Course__, Udemy
+__Parallel Programming with C# and .NET__, Udemy  <br>
+[Référence: UC-XED36OSN](https://www.udemy.com/certificate/UC-CGVD4OQB/) 
 
 `2018`
-__Parallel Programming with C# and .NET__, Udemy
+__Xamarin Forms: Build Native Cross-platform Apps with C#__, Udemy  <br>
+[Référence: UC-8NMZ99T4](https://www.udemy.com/certificate/UC-8NMZ99T4/) 
 
-`2018`
-__Xamarin Forms : Build Native Cross-platform Apps with C#__, Udemy
 
-`2015`
-__Cours Semi-Intensif de Français 24 Leçons__, EC, Quebec
-
-`2010`
-__English Communication Program 4 weeks__, Pacific Gateway International College, Vancouver
-
-`2010`
-__Advanced Java Programming 48h__, Qualiti Software Processes
-
-## Certification
+## Certifications
 
 `2021`
-__AZ-900 : Microsoft Azure Fundamentals__
+__AZ-900 : [Microsoft Azure Fundamentals](https://www.credly.com/badges/b0c44999-4faf-44eb-bb6c-5fea1f2ec1b2?source=linked_in_profile)__
 
 `2009`
-__Oracle PL/SQL Developer Certified Associate
-Introduction to Oracle 9i: SQL (1Z0-007)
-Program with PL/SQL (1Z0-147)__
-
+__1Z0-007 / 1Z0-147 [Oracle PL/SQL Developer Certified Associate](https://www.credly.com/badges/74a944db-bc0b-4633-941e-6ec8d9a19d05/linked_in_profile)__
+ 
 ## Sommaire des Realisations
 
-`2019 - Present`
-__Senior Analyst Programmer__, COFOMO Quebec, Quebec
+`2019 - Present` **Senior Analyst Programmeur** @ [COFOMO Quebec](https://www.cofomo.com/fr) <br>
+  - `2021 - Present` **_Senior Programmeur d’applications Web mobiles_** @ [Revenu Quebec](https://www.revenuquebec.ca/fr/) _(2021 - Present)_ <br>
+  - `2019 - 2020` **_Architecte logiciel_** @ [CHU de Québec](https://www.dcicristalnet.com/) _(2019 - 2020)_ <br>
+<br>
 
-* `2021 - Present`
-__Senior Programmeur d’applications Web mobiles__, Revenu Quebec, Quebec
+`2010 - 2019` **Principal Software Enginner** @ [CESAR, Brésil](https://english.cesar.org.br/) <br>
+- `2015 - 2019` **_Principal Software Enginner_** @ [Motorola Solutions, Brésil](https://www.motorolasolutions.com/en_us.html) <br>
+- `2015` **_Mid-Level Software Enginner_** @ [Fiat Chrysler, Brési](https://www.fcagroup.com/en-US/group/Pages/group_overview.aspx#)<br>
+- `2010 - 2014` **_Jr Software Enginner_** @ [Samsung SIDIA, Brési](https://www.sidia.com/en/)<br>
+<br>
 
-* `2019 - 2020`
-__Architecte logicielle__, CHU de Québec, Quebec
-
-`2010 - 2019`
-__Principal Software Enginner__, CESAR, Brésil
-
-* `2015 - 2019`
-__Principal Software Enginner__, Motorola Solutions, Brésil
-
-* `2015`
-__Mid-Level Software Enginner__, Fiat Chrysler, Brési
-
-* `2010 - 2014`
-__Mid-Level Software Enginner__, Samsung SIDIA, Brési
-
-`2008 - 2010`
-__Jr Software Developer__, MV, Brésil
+`2008 - 2010` **Jr Software Developer** @ [MV, Brésil](https://www.mv.com.br/en) <br>
 
 ## Description Détaillée des Réalisations
 
 ### Revenu Québec, Québec
-
+    
 `2021 - Present`
-Facturation obligatoire Sect. restauration et bars (FO-RB) – Volet TI
+**Facturation obligatoire Sect. restauration et bars (FO-RB) – Volet TI** <br>
 
 * Participer, avec les membres de l’équipe, à l’estimation des histoires du carnet de commandes (carnet de produit),
 * Réaliser, en collaboration avec les membres de l’équipe, le découpage des histoires en tâches (unités de programmation),
@@ -156,10 +152,11 @@ Facturation obligatoire Sect. restauration et bars (FO-RB) – Volet TI
 * Démontrer les résultats obtenus au terme de chacune des itérations,
 * Participer à la mise en place et à l’implantation des solutions;
 
+
 ### CHU de Québec - Université Laval, Québec
 
 `2019 - 2020`
-Services professionnels spécialisés en TI, CDO-Cristal-Net
+**Services professionnels spécialisés en TI, CDO-Cristal-Net** <br>
 
 * Effectuer les tâches dans un environnement en mode Agile,
 * Participer aux cérémonies Agile pour la planification et la rétrospection des tâches,
@@ -174,7 +171,7 @@ Services professionnels spécialisés en TI, CDO-Cristal-Net
 ### Motorola Solutions, Brésil  
 
 `2015 - 2019`
-Application Developer Program (Programme de développement d'applications)
+**Application Developer Program (Programme de développement d'applications)** <br>
 
 * Développer avec le modèle asynchrone basé sur les tâches et la programmation multithreading;
 * Évaluer l'architecture des applications à l'aide des API Motorola;
@@ -193,7 +190,7 @@ Application Developer Program (Programme de développement d'applications)
 ### FIAT Chrysler, Brésil  
 
 `2015`
-Prototypage et développement d'assistants vocaux pour les voitures FIAT
+**Prototypage et développement d'assistants vocaux pour les voitures FIAT** <br>
 
 * Créer une application mobile (Android Native); 
 * Participer aux réunions au sein du projet;
@@ -205,7 +202,7 @@ Prototypage et développement d'assistants vocaux pour les voitures FIAT
 ### SAMSUNG, Brésil  
 
 `2010 - 2014`
-Développement d'applications pour la télé connectée
+**Développement d'applications pour la télé connectée** <br>
 
 * Agir à titre de gestionnaire de la planification du projet et des dépendances pour l'intégration d'éléments de jeu faisant partie d'une équipe composée de concepteurs de jeu, d'ingénieurs du son et de développeurs de jeux;
 * Créer un moteur de jeu complet pour intégrer toutes les fonctionnalités spécifiées et non spécifiées des jeux;
@@ -216,7 +213,7 @@ Développement d'applications pour la télé connectée
 ### MV, Brésil  
 
 `2018 - 2010`
-Maintenance et développement d'améliorations des systèmes hospitaliers
+**Maintenance et développement d'améliorations des systèmes hospitaliers** <br>
 
 * Prendre connaissance des dossiers fonctionnels associés aux composants informatiques qui lui sont confiés;
 * Développer la solution logicielle et la livrer de manière incrémentale;
