@@ -7,19 +7,19 @@ Analyste-programmeur
 ## Sommaire Technique
 
 **Méthodologies de développement et outils de conception:**
-Agile, Scrum, UML, DevOps, GRASP, SOLID, MVC, TDD, DDD, SAAS, IAAS, DRY,	n-tiers, Architecture orientée services, Serverless Computing, Microservices
+- Agile, Scrum, UML, DevOps, GRASP, SOLID, MVC, TDD, DDD, SAAS, IAAS, DRY,	n-tiers, Architecture orientée services, Serverless Computing, Microservices
 
- **Langages de programmation et environnements de développement:**
-C#, VB, Java, JavaScript, Typescript, JQuery, XAML, PLSQL, SQL, NUnit, Moq, MSTest, Xamarin Forms, Android, React Native, Docker, YAML, MS Visual Studio .NET (Windows Forms, WPF, ASP.NET, NET Core), Visual Code.
+**Langages de programmation et environnements de développement:**
+- C#, VB, Java, JavaScript, Typescript, JQuery, XAML, PLSQL, SQL, NUnit, Moq, MSTest, Xamarin Forms, Android, React Native, Docker, YAML, MS Visual Studio .NET (Windows Forms, WPF, ASP.NET, NET Core), Visual Code.
 
 **Technologies de base de données:**
-SQL Server, Entity Framework, Oracle, MongoDB, CosmosDB
+- SQL Server, Entity Framework, Oracle, MongoDB, CosmosDB
 
 **Systèmes d’exploitation:**
-SQL Server, Entity Framework, Oracle, MongoDB
+- SQL Server, Entity Framework, Oracle, MongoDB
 
 **Autres technologies:**
-MS Office, Git, GitHub, Gitlab, Wireshark
+- MS Office, Git, GitHub, Gitlab, Wireshark
 
 ## Interests
 
@@ -113,6 +113,15 @@ __Xamarin Forms: Build Native Cross-platform Apps with C#__, Udemy  <br>
 
 
 ## Certifications
+<table cellpadding="0" cellspacing="0" border="0"><tr><td valign="top" width="33%">
+<div align="center">  
+<img src="https://images.credly.com/size/680x680/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" alt="drawing" width="100"/>
+</div>  
+</td><td valign="top" width="33%">
+<div align="center">  
+<img src="https://images.credly.com/size/680x680/images/8864382b-b698-4468-a4fe-a9c8d6e2b402/06_Oracle_PL_SQL_Developer_Associate__1_.png" alt="drawing" width="100"/>
+</div>  
+</td></tr></table>  
 
 `2021`
 __AZ-900 : [Microsoft Azure Fundamentals](https://www.credly.com/badges/b0c44999-4faf-44eb-bb6c-5fea1f2ec1b2?source=linked_in_profile)__
