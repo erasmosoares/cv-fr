@@ -10,16 +10,16 @@ Analyste-programmeur
 Agile, Scrum, UML, DevOps, GRASP, SOLID, MVC, TDD, DDD, SAAS, IAAS, DRY,	n-tiers, Architecture orientée services, Serverless Computing, Microservices
 
  **Langages de programmation et environnements de développement:**
- - C#, VB, Java, JavaScript, Typescript, JQuery, XAML, PLSQL, SQL, NUnit, Moq, MSTest, Xamarin Forms, Android, React Native, Docker, YAML, MS Visual Studio .NET (Windows Forms, WPF, ASP.NET, NET Core), Visual Code.
+C#, VB, Java, JavaScript, Typescript, JQuery, XAML, PLSQL, SQL, NUnit, Moq, MSTest, Xamarin Forms, Android, React Native, Docker, YAML, MS Visual Studio .NET (Windows Forms, WPF, ASP.NET, NET Core), Visual Code.
 
 **Technologies de base de données:**
-- SQL Server, Entity Framework, Oracle, MongoDB, CosmosDB
+SQL Server, Entity Framework, Oracle, MongoDB, CosmosDB
 
 **Systèmes d’exploitation:**
-- SQL Server, Entity Framework, Oracle, MongoDB
+SQL Server, Entity Framework, Oracle, MongoDB
 
 **Autres technologies:**
-- MS Office, Git, GitHub, Gitlab, Wireshark
+MS Office, Git, GitHub, Gitlab, Wireshark
 
 ## Interests
 
