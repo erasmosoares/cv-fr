@@ -1,8 +1,6 @@
 # Erasmo Soares
 
-Analyste-programmeur
-
-[Email](mailto:erasmosaraujo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/erasmosoares/) / [GitHub](https://github.com/erasmosoares/) / [Twitter](https://twitter.com/erasmosoares/)
+[Email](mailto:erasmosaraujo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/erasmosoares/) / [GitHub](https://github.com/erasmosoares/) 
 
 ## Sommaire Technique
 
@@ -23,12 +21,12 @@ Analyste-programmeur
 
 ## Interests
 
-Solutions Architecture, Clean Architecture, Clean Code, Node, Python, DevOps, Docker, Cloud
+Clean Architecture, [Agile Architecture](https://www.scaledagileframework.com/agile-architecture/), Clean Code, Node, Python, DevOps, Docker, Cloud (Azure)
 
 ## Education
 
 `2015 - 2017`
-__CESAR School, Brésil.__
+__@ [CESAR School](https://www.cesar.school/#), Brésil.__
 
 - M.Sc en ingénierie logicielle 
 
