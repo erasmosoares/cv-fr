@@ -5,19 +5,19 @@
 ## Sommaire Technique
 
 **Méthodologies de développement et outils de conception:**
-- Agile, Scrum, UML, DevOps, GRASP, SOLID, MVC, TDD, DDD, SAAS, IAAS, DRY,	n-tiers, Architecture orientée services, Serverless Computing, Microservices
+- Agile, Scrum, UML, DevOps, GRASP, SOLID, MVC, TDD, DDD, SAAS, IAAS, DRY,	n-tiers, Architecture orientée services, Serverless Computing, Microservices.
 
 **Langages de programmation et environnements de développement:**
-- C#, VB, Java, JavaScript, Typescript, JQuery, XAML, PLSQL, SQL, NUnit, Moq, MSTest, Xamarin Forms, Android, React Native, Angular, Docker, YAML, MS Visual Studio .NET (Windows Forms, WPF, ASP.NET, NET Core), Visual Code.
+- C#, JavaScript, Typescript, JQuery, Node, React Native, Angular, Docker, XAML,  MS Visual Studio .NET (Windows Forms, WPF, ASP.NET, NET Core), Visual Code, PLSQL, SQL, NUnit, Moq, MSTest, Xamarin Forms, Android, YAML, VB, Java. 
 
 **Technologies de base de données:**
-- SQL Server, Entity Framework, Oracle, MongoDB, CosmosDB
+- SQL Server, Entity Framework, Oracle, MongoDB, CosmosDB.
 
 **Systèmes d’exploitation:**
-- SQL Server, Entity Framework, Oracle, MongoDB
+- SQL Server, Entity Framework, Oracle, MongoDB.
 
 **Autres technologies:**
-- MS Office, Git, GitHub, Gitlab, Wireshark
+- MS Office, Git, GitHub, Gitlab, Wireshark.
 
 ## Interests
 
