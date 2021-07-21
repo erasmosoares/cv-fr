@@ -42,6 +42,10 @@ __Collège Santa Maria, Brésil__
 ## Perfectionnement
 
 `2021`
+__The Ultimate Docker Course__, Code With Mosh <br>
+[Référence: cert_5ykvppdb](https://codewithmosh.com/courses/1359863/certificate?certificate_first_issued=true) 
+
+`2021`
 __Managing Microsoft Azure App Services__, Pluralsight <br>
 [Référence: REP ID 4127](https://www.dropbox.com/s/hpe7fl11kpage1h/certificate-microsoft-azure-app-services.pdf?dl=0) 
 
@@ -111,20 +115,23 @@ __Xamarin Forms: Build Native Cross-platform Apps with C#__, Udemy  <br>
 
 
 ## Certifications
+
 <table cellpadding="0" cellspacing="0" border="0"><tr><td valign="top" width="33%">
 <div align="center">  
-<img src="https://images.credly.com/size/680x680/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" alt="drawing" width="100"/>
+<img src="https://images.credly.com/size/680x680/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" alt="drawing" width="100" border="0"/>
 </div>  
 </td><td valign="top" width="33%">
 <div align="center">  
-<img src="https://images.credly.com/size/680x680/images/8864382b-b698-4468-a4fe-a9c8d6e2b402/06_Oracle_PL_SQL_Developer_Associate__1_.png" alt="drawing" width="100"/>
+<img src="https://images.credly.com/size/680x680/images/8864382b-b698-4468-a4fe-a9c8d6e2b402/06_Oracle_PL_SQL_Developer_Associate__1_.png" alt="drawing" width="100" border="0"/>
 </div>  
 </td></tr></table>  
 
 `2021`
+
 __AZ-900 : [Microsoft Azure Fundamentals](https://www.credly.com/badges/b0c44999-4faf-44eb-bb6c-5fea1f2ec1b2?source=linked_in_profile)__
 
 `2009`
+
 __1Z0-007 / 1Z0-147 [Oracle PL/SQL Developer Certified Associate](https://www.credly.com/badges/74a944db-bc0b-4633-941e-6ec8d9a19d05/linked_in_profile)__
  
 ## Sommaire des Realisations
@@ -156,7 +163,6 @@ __1Z0-007 / 1Z0-147 [Oracle PL/SQL Developer Certified Associate](https://www.cr
 * Livrer la solution logicielle de manière incrémentale,
 * Démontrer les résultats obtenus au terme de chacune des itérations,
 * Participer à la mise en place et à l’implantation des solutions;
-
 
 ### CHU de Québec - Université Laval, Québec
 
