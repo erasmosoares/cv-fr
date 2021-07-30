@@ -8,13 +8,10 @@
 - Agile, Scrum, UML, DevOps, GRASP, SOLID, MVC, TDD, DDD, SAAS, IAAS, DRY,	n-tiers, Architecture orientée services, Serverless Computing, Microservices.
 
 **Langages de programmation et environnements de développement:**
-- C#, JavaScript, Typescript, JQuery, Node, React Native, Angular, Docker, XAML,  MS Visual Studio .NET (Windows Forms, WPF, ASP.NET, NET Core), Visual Code, PLSQL, SQL, NUnit, Moq, MSTest, Xamarin Forms, Android, YAML, VB, Java. 
+-	C#, JavaScript, Typescript, JQuery, Node, React Native, Angular, Docker, XAML, MS Visual Studio .NET (Windows Forms, WPF, ASP.NET, NET Core), Visual Code, PLSQL, SQL, NUnit, Moq, MSTest, Xamarin Forms, Android, YAML, VB, Java, Unity 3D
 
 **Technologies de base de données:**
 - SQL Server, Entity Framework, Oracle, MongoDB, CosmosDB.
-
-**Systèmes d’exploitation:**
-- SQL Server, Entity Framework, Oracle, MongoDB.
 
 **Autres technologies:**
 - MS Office, Git, GitHub, Gitlab, Wireshark.
