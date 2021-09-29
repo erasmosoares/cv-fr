@@ -14,7 +14,7 @@
 - SQL Server, Entity Framework, Oracle, MongoDB, CosmosDB.
 
 **Autres technologies:**
-- MS Office, Git, GitHub, Gitlab, Wireshark.
+- MS Office, Confluence, Azure, Git, GitHub, Gitlab, Wireshark.
 
 ## Interests
 
