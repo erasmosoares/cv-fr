@@ -151,6 +151,10 @@ __1Z0-007 / 1Z0-147 [Oracle PL/SQL Developer Certified Associate](https://www.cr
 `2021 - Present`
 **Facturation obligatoire Sect. restauration et bars (FO-RB) – Volet TI** <br>
 
+Les travaux chez Revenu Québec portent sur le développement, plus précisément l’adaptation d’une solution informatique existante en soutien à la gestion administrative de la mesure fiscale de facturation obligatoire.
+
+M. Soares a réalisé les tâches suivantes :
+
 * Participer, avec les membres de l’équipe, à l’estimation des histoires du carnet de commandes (carnet de produit),
 * Réaliser, en collaboration avec les membres de l’équipe, le découpage des histoires en tâches (unités de programmation),
 * Effectuer l’analyse et la programmation des tâches (unités de programmation),
@@ -166,6 +170,10 @@ __1Z0-007 / 1Z0-147 [Oracle PL/SQL Developer Certified Associate](https://www.cr
 `2019 - 2020`
 **Services professionnels spécialisés en TI, CDO-Cristal-Net** <br>
 
+Le Ministère de la Santé et des Services Sociaux (MSSS) décida de nommer le produit Cristal-Net comme Dossiers Cliniques Informatisés (DCI) à implanter sur tout le territoire de la province de Québec visant trente-quatre (34) établissements de santé. Le développement et le déploiement du DCI ont été confiés à l’équipe du Centre de Développement et d’Opérationnalisation (CDO) de Cristal-Net du CHU de Québec-Université Laval.
+
+M. Soares a réalisé les tâches suivantes :
+
 * Effectuer les tâches dans un environnement en mode Agile,
 * Participer aux cérémonies Agile pour la planification et la rétrospection des tâches,
 * Être en mesure de fournir des informations détaillées et spécifiques des besoins matériels, logiciels ou autres en lien avec les techniques de mise en œuvre et les outils pour rendre la solution la plus efficace possible et capable de répondre aux besoins incluant les exigences actuelles et futures,
@@ -180,6 +188,10 @@ __1Z0-007 / 1Z0-147 [Oracle PL/SQL Developer Certified Associate](https://www.cr
 
 `2015 - 2019`
 **Application Developer Program (Programme de développement d'applications)** <br>
+
+Le programme de développement d'applications est conçu pour donner aux développeurs les outils nécessaires pour accélérer leur développement et développer leur activité grâce aux interfaces prises en charge par Motorola. Pour compléter ses propres applications de base et spécialisées, Motorola s'associe à d'autres entreprises pour développer des applications et des solutions pour les systèmes de radios professionnelles et commerciales Motorola.
+
+M. Soares a réalisé les tâches suivantes :
 
 * Développer avec le modèle asynchrone basé sur les tâches et la programmation multithreading;
 * Évaluer l'architecture des applications à l'aide des API Motorola;
@@ -200,6 +212,10 @@ __1Z0-007 / 1Z0-147 [Oracle PL/SQL Developer Certified Associate](https://www.cr
 `2015`
 **Prototypage et développement d'assistants vocaux pour les voitures FIAT** <br>
 
+La conception de l’application mobile ToLigado s’est déroulée en partenariat avec l’usine de voitures située à Betim (MG) au Brésil. L'usine automobile fonctionne avec une capacité de production de 800 000 véhicules par jour. Ce projet a été développé avec des systèmes tels qu'Android Auto et Apple CarPlay. L’intention était de créer des preuves de concept pour les tableaux de bord des voitures afin que le conducteur puisse, par des commandes vocales, accéder à des informations sur le trafic, à des cartes routières et aux réseaux sociaux.
+
+M. Soares a réalisé les tâches suivantes :
+
 * Créer une application mobile (Android Native); 
 * Participer aux réunions au sein du projet;
 * Produire preuves de concepts;
@@ -212,6 +228,10 @@ __1Z0-007 / 1Z0-147 [Oracle PL/SQL Developer Certified Associate](https://www.cr
 `2010 - 2014`
 **Développement d'applications pour la télé connectée** <br>
 
+Réalisé au début de la commercialisation des téléviseurs intelligents, ce projet visait à créer des applications de jeux et de divertissement pour le système Samsung Smart Hub. Ce projet de grande envergure a duré plus de quatre ans. En gros, il s’est articulé autour des étapes suivantes : Créer des applications et des jeux avec différentes technologies; Tester les API de Samsung; Publier les applications.
+
+M. Soares a réalisé les tâches suivantes :
+
 * Agir à titre de gestionnaire de la planification du projet et des dépendances pour l'intégration d'éléments de jeu faisant partie d'une équipe composée de concepteurs de jeu, d'ingénieurs du son et de développeurs de jeux;
 * Créer un moteur de jeu complet pour intégrer toutes les fonctionnalités spécifiées et non spécifiées des jeux;
 * Développer des applications Android, des applications de divertissement, des jeux et des applications de convergence (Android / TV)
@@ -222,6 +242,10 @@ __1Z0-007 / 1Z0-147 [Oracle PL/SQL Developer Certified Associate](https://www.cr
 
 `2018 - 2010`
 **Maintenance et développement d'améliorations des systèmes hospitaliers** <br>
+
+MV est une entreprise qui développe des solutions de gestion hospitalière. La société dispose de la plateforme la plus complète d'Amérique latine pour l'automatisation des processus et l'intégration des zones hospitalières, opérateurs de santé, états et municipalités, centres cliniques et de diagnostic. 
+
+M. Soares a réalisé les tâches suivantes :
 
 * Prendre connaissance des dossiers fonctionnels associés aux composants informatiques qui lui sont confiés;
 * Développer la solution logicielle et la livrer de manière incrémentale;
