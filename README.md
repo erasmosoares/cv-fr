@@ -138,7 +138,7 @@ __1Z0-007 / 1Z0-147 [Oracle PL/SQL Developer Certified Associate](https://www.cr
   - `2019 - 2020` **_Architecte logiciel_** @ [CHU de Québec](https://www.dcicristalnet.com/) _(2019 - 2020)_ <br>
 
 `2010 - 2019` **Mid-Level Software Enginner** @ [CESAR, Brésil](https://english.cesar.org.br/) <br>
-- `2015 - 2019` **_Principal Software Enginner_** @ [Motorola Solutions, Brésil](https://www.motorolasolutions.com/en_us.html) <br>
+- `2015 - 2019` **_Mid-Level Software Enginner_** @ [Motorola Solutions, Brésil](https://www.motorolasolutions.com/en_us.html) <br>
 - `2015` **_Mid-Level Software Enginner_** @ [Fiat Chrysler, Brési](https://www.fcagroup.com/en-US/group/Pages/group_overview.aspx#)<br>
 - `2010 - 2014` **_Jr Software Enginner_** @ [Samsung SIDIA, Brési](https://www.sidia.com/en/)<br>
 
