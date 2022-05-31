@@ -146,9 +146,30 @@ __1Z0-007 / 1Z0-147 [Oracle PL/SQL Developer Certified Associate](https://www.cr
 
 ## Description Détaillée des Réalisations
 
+### Ministère de la justice (MJQ), Québec
+    
+`2021 - Présent`
+**Programme Lexius** <br>
+
+Le programme Lexius consiste à implanter une solution moderne, innovatrice, flexible et évolutive et qui permet, en tout temps, un partage sécuritaire de l’information entre les différents acteurs et actrices de la justice.
+
+M. Soares a réalisé les tâches suivantes :
+
+* Effectuer l’analyse et la programmation des tâches (unités de programmation)
+* Documenter l’analyse et la programmation selon les normes et standards de RQ
+* Participer activement à la qualité du code produit (documentation, revue de code, propriété collective du code)
+* Réaliser la mise en place du développement piloté par les tests TDD
+* Livrer la solution logicielle de manière incrémentale
+* Démontrer les résultats obtenus au terme de chacune des itérations
+* Participer à la mise en place et à l’implantation des solutions
+* Effectuer des études de positionnement et d’orientations
+* Produire des preuves de concepts;
+* Soutien de l'équipe de développement.
+* Production de documents d'architecture
+
 ### Revenu Québec, Québec
     
-`2021 - Present`
+`2021 - 2022`
 **Facturation obligatoire Sect. restauration et bars (FO-RB) – Volet TI** <br>
 
 Les travaux chez Revenu Québec portent sur le développement, plus précisément l’adaptation d’une solution informatique existante en soutien à la gestion administrative de la mesure fiscale de facturation obligatoire.
